@@ -2,4 +2,4 @@ Linea de texto Archivo 1 numero 1
 Linea de texto Archivo 1 numero 2
 Linea de texto Archivo 1 numero 3
 Linea de texto Archivo 1 numero 4
-Linea de texto Archivo 1 numero 5
+La idea es generar conflicto aqui
