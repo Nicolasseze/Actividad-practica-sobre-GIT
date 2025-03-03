@@ -1,6 +1,6 @@
 Linea de texto Archivo 1 numero 1
 Linea de texto Archivo 1 numero 2
 Linea de texto Archivo 1 numero 3
+Linea de texto Archivo 1 numero 4
+La idea es generar conflicto aqui
 
-
-Borre linea numero 4 y 5 y agregue linea 6
