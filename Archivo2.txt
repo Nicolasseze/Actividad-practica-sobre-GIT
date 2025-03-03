@@ -1,0 +1,5 @@
+Linea de texto Archivo 2 numero 1
+Linea de texto Archivo 2 numero 2
+Linea de texto Archivo 2 numero 3
+Linea de texto Archivo 2 numero 4
+Linea de texto Archivo 2 numero 5
